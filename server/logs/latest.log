@@ -1,0 +1,33 @@
+[04:32:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:32:55] [ServerMain/INFO]: Loaded 1370 recipes
+[04:32:55] [ServerMain/INFO]: Loaded 1481 advancements
+[04:32:55] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[04:32:55] [Server thread/INFO]: Loading properties
+[04:32:55] [Server thread/INFO]: Default game type: SURVIVAL
+[04:32:55] [Server thread/INFO]: Generating keypair
+[04:32:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:32:55] [Server thread/INFO]: Using epoll channel type
+[04:32:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:32:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:32:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:32:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:32:56] [Server thread/INFO]: Preparing level "world"
+[04:32:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:32:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:32:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:32:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:32:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:32:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:32:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:32:59] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[04:33:00] [Worker-Main-3/INFO]: Preparing spawn area: 28%
+[04:33:00] [Worker-Main-3/INFO]: Preparing spawn area: 28%
+[04:33:01] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[04:33:01] [Worker-Main-3/INFO]: Preparing spawn area: 67%
+[04:33:01] [Server thread/INFO]: Time elapsed: 5154 ms
+[04:33:01] [Server thread/INFO]: Done (5.528s)! For help, type "help"
+[04:34:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:34:47] [Server thread/INFO]: brxpy[/10.147.20.50:51968] logged in with entity id 2 at (-361.79763167753583, -30.0, 344.30000001192093)
+[04:34:47] [Server thread/INFO]: brxpy joined the game
+[04:36:51] [Server thread/INFO]: brxpy lost connection: Disconnected
+[04:36:51] [Server thread/INFO]: brxpy left the game
